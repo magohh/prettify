@@ -1,0 +1,90 @@
+.menu{
+	display:inline;
+	margin: 30px;
+}
+header{
+	padding:30px;
+	text-align: center
+}
+* {
+	font-family: verdana
+}
+
+.foto{
+	background-image:url("../images/paisaje.jpg");
+	background-size: 100% 100%;
+	height:500px;
+	padding:100px
+}
+
+.fofo{
+	text-align: center;
+	color:white;
+}
+
+.textura1{
+	background-image:url("../images/tile1.png");
+	background-size: 100% 100%;
+	padding:30px;
+}
+.fotocontexto{
+	margin-top: 70px
+}
+
+.chava{
+	width: 100%;
+	border-style: ridge;
+	border-radius: 20px;
+	padding: auto
+}
+.subti{
+	color:purple;
+	text-align: center;
+	font-size: 40px;
+
+}
+.mar{
+	margin-bottom: 30px;
+	margin-top: 30px
+}
+
+.der{
+	text-align: right;
+}
+.texto{
+	text-align: justify;
+}
+.chico{
+	font-size:20px
+}
+
+.ima{
+	width: 100%;
+	height: 100%;
+	border-radius: 100px;
+	border:ridge;
+}
+
+.textura2{
+	background-image:url("../images/tile2.png");
+	padding:30px
+}
+.ico{
+	width:15%;
+	text-align: center;
+}
+
+
+.nombre{
+	margin-top: 30px;
+	font-size:60px;
+}
+
+.nombre2{
+	font-size:30px;
+
+}
+
+.centro{
+	margin:auto;
+}
